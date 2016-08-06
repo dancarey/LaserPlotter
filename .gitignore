@@ -1,1 +1,6 @@
-3D Models/~$8mmRodMount.SLDPRT
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
+
+# ignore OS X desktops
+.DS_Store
